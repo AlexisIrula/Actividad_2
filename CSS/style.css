@@ -1,0 +1,26 @@
+table,
+th,
+td {
+  width: 800px;
+  margin: auto;
+  
+  font-size: 25px;
+  padding-left: 30px;
+  text-align: center;
+}
+
+.tittle{
+  text-align: center;
+  font-style: initial;
+}
+
+.margin {
+  margin-right: 60px;
+}
+
+.text {
+  background-color: rgb(240, 245, 207);
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
